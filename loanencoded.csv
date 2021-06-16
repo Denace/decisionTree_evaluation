@@ -1,0 +1,11 @@
+HomeOwner,MaritalStatus,AnnualIncome,DefaultedBorrower
+1,1,125,no
+0,2,100,no
+0,1,70,no
+1,2,120,no
+0,0,95,yes
+0,2,60,no
+1,0,220,no
+0,1,85,yes
+0,2,75,no
+0,1,90,yes
